@@ -6,7 +6,7 @@ const Services = () => {
   return (
     <BaseContainer>
       <Heading>Our Service's</Heading>
-      <div className="grid grid-cols-3">
+      <div className="grid grid-cols-1 gap-y-10 lg:grid-cols-3 -z-10">
         <ServiceCard />
       </div>
       <a

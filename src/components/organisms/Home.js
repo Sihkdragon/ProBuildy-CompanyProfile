@@ -4,7 +4,7 @@ import AdvantageCardList from "./AdvantageCardList";
 
 const Home = () => {
   return (
-    <section className="min-h-screen">
+    <section className="min-h-screen  mb-36 lg:mb-0">
       <Navbar />
       <Jumbotron />
       <AdvantageCardList />

@@ -5,8 +5,8 @@ import { works, services } from "../../lib";
 import maps from "../../assets/img/maps.png";
 const Footer = () => {
   return (
-    <footer className="w-full h-64 bg-semidark">
-      <div className="container text-white h-full flex items-center gap-x-48">
+    <footer className="w-full pt-20 lg:pt-0 h-fit xl:h-64 px-10 md:px-0 bg-semidark">
+      <div className="container text-white h-full grid grid-cols-1 justify-center sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 items-center gap-y-16 gap-x-48">
         <Brand />
         <FooterItems title="Work's" items={works} />
         <FooterItems title="Service's" items={services} />
