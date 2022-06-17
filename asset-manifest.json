@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ProBuildy-CompanyProfile/static/css/main.1e547857.css",
-    "main.js": "/ProBuildy-CompanyProfile/static/js/main.5edeb4ef.js",
+    "main.css": "/ProBuildy-CompanyProfile/static/css/main.eab2e6b9.css",
+    "main.js": "/ProBuildy-CompanyProfile/static/js/main.7e8d75d4.js",
     "static/media/jumbotron.jpg": "/ProBuildy-CompanyProfile/static/media/jumbotron.c91659501efd4fd36fd6.jpg",
     "static/media/works10.jpg": "/ProBuildy-CompanyProfile/static/media/works10.fc4c14f7de8c1fb7d737.jpg",
     "static/media/works12.jpg": "/ProBuildy-CompanyProfile/static/media/works12.a1ed0674f311251e0da3.jpg",
@@ -19,17 +19,18 @@
     "static/media/works7.jpg": "/ProBuildy-CompanyProfile/static/media/works7.7468281bdc1fb11d8581.jpg",
     "static/media/works6.jpg": "/ProBuildy-CompanyProfile/static/media/works6.5e97ae737334f04f9d44.jpg",
     "static/media/maps.png": "/ProBuildy-CompanyProfile/static/media/maps.a4b55f3f036375414ef5.png",
-    "static/media/ig.svg": "/ProBuildy-CompanyProfile/static/media/ig.94c8af6388d750ab9c5f2782358832b1.svg",
+    "static/media/ig.svg": "/ProBuildy-CompanyProfile/static/media/ig.4613aa4f60ff13fdd2b48069e588bbed.svg",
     "index.html": "/ProBuildy-CompanyProfile/index.html",
-    "static/media/phone.svg": "/ProBuildy-CompanyProfile/static/media/phone.7fa54dfba3f2bb1422d59fa3b0d775be.svg",
-    "static/media/email.svg": "/ProBuildy-CompanyProfile/static/media/email.3a4f52167c0110aeb05926aa3c3e2223.svg",
-    "static/media/web.svg": "/ProBuildy-CompanyProfile/static/media/web.6949977ade85fa93cd9ce10c75a23677.svg",
-    "static/media/logo.svg": "/ProBuildy-CompanyProfile/static/media/logo.572526fd9d18e3a4a82e51bb9322775e.svg",
-    "main.1e547857.css.map": "/ProBuildy-CompanyProfile/static/css/main.1e547857.css.map",
-    "main.5edeb4ef.js.map": "/ProBuildy-CompanyProfile/static/js/main.5edeb4ef.js.map"
+    "static/media/phone.svg": "/ProBuildy-CompanyProfile/static/media/phone.bbf249e9f3f5e82480185b4c4cbd4d7a.svg",
+    "static/media/email.svg": "/ProBuildy-CompanyProfile/static/media/email.2acda85d1a0d468dd7545455dadee9b6.svg",
+    "static/media/web.svg": "/ProBuildy-CompanyProfile/static/media/web.b6cd82e7ead535e5564e5923df1ef57b.svg",
+    "static/media/logo.svg": "/ProBuildy-CompanyProfile/static/media/logo.76eb5c068368db8d4ba4e97d27783e82.svg",
+    "static/media/menu.svg": "/ProBuildy-CompanyProfile/static/media/menu.d24d8c6238feb15f3a748e989864c2f6.svg",
+    "main.eab2e6b9.css.map": "/ProBuildy-CompanyProfile/static/css/main.eab2e6b9.css.map",
+    "main.7e8d75d4.js.map": "/ProBuildy-CompanyProfile/static/js/main.7e8d75d4.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e547857.css",
-    "static/js/main.5edeb4ef.js"
+    "static/css/main.eab2e6b9.css",
+    "static/js/main.7e8d75d4.js"
   ]
 }
